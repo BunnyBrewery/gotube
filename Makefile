@@ -1,4 +1,4 @@
 
 
 build:
-	go build -o gotube ./
+	go build -o gotube 
